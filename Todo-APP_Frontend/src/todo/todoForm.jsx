@@ -14,5 +14,5 @@ export default props => (
                 onClick={props.handleAdd}></IconButton>
         </Grid>
 
-    </div>
+    </div> 
 )
